@@ -1,10 +1,10 @@
 # Awesome-RAG
 🤖 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
 🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
-😊 This repo is still being improved and updated, so stay tuned!
+💡 This repo is still being improved and updated, and a general framework is being built, so stay tuned!
 
 
-## 💡Overview
+## 📕Overview
 - [ACL 2024](#ACL-2024)
 - [ICML 2024](#ICML-2024)
 - [ICLR 2024](#ICLR-2024)
