@@ -24,7 +24,7 @@
 - Jul 1 Searching for Best Practices in Retrieval-Augmented Generation
 
 ### 🍭2024 June
-- Jun 29 [From RAGtoRICHES:Retrieval Interlaced with Sequence Generation](#https://arxiv.org/pdf/2407.00361)
+- Jun 29 [From RAG to RICHES:Retrieval Interlaced with Sequence Generation](https://arxiv.org/pdf/2407.00361)
 - Jun 27 SEAKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Genaration
 - Jun 27 Unified Active Retrieval for Retrieval Augmented Generation
 - Jun 27 CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG
