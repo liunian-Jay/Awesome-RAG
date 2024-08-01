@@ -35,12 +35,12 @@
 - Jun 19 [R^2AG: Incorporating Retrieval Information into Retrieval Augmented Generation](https://arxiv.org/pdf/2406.13249)
 - Jun 19 [INSTRUCTRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising](https://arxiv.org/pdf/2406.13629)
 - Jun 18 [Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach](https://arxiv.org/pdf/2407.13101)
-- Jun 18 PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers
-- Jun 18 Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding
-- Jun 12 Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation
-- Jun 7  Multi-Head RAG: Solving Multi-Aspect Problems with LLMs
-- Jun 7  CRAG - Comprehensive RAG Benchmark
-- Jun 1  Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation
+- Jun 18 [PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers](https://arxiv.org/pdf/2406.12430)
+- Jun 18 [Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding](https://arxiv.org/pdf/2406.12331)
+- Jun 12 [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150)
+- Jun 7  [Multi-Head RAG: Solving Multi-Aspect Problems with LLMs](https://arxiv.org/pdf/2406.05085?trk=public_post_comment-text)
+- Jun 7  [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)
+- Jun 1  [Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.00456)
 
 ### 🍭2024 May
 - May 30 GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning
