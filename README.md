@@ -19,21 +19,22 @@
 
 ## 🔥Latest News
 ### 🔥2024 July
-- Jul 19 RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering
-- Jul 11 Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting
-- Jul 1 Searching for Best Practices in Retrieval-Augmented Generation
+- Jul 29 [Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/pdf/2407.19813)
+- Jul 19 [RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering](https://arxiv.org/pdf/2407.13998)
+- Jul 11 [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://arxiv.org/pdf/2407.08223?trk=public_post_comment-text)
+- Jul 1 [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.01219?trk=public_post_comment-text)
 
 ### 🍭2024 June
 - Jun 29 [From RAG to RICHES:Retrieval Interlaced with Sequence Generation](https://arxiv.org/pdf/2407.00361)
-- Jun 27 SEAKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Genaration
-- Jun 27 Unified Active Retrieval for Retrieval Augmented Generation
-- Jun 27 CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG
-- Jun 25 Entropy-Based Decoding for Retrieval-Augmented Large Language Models
-- Jun 21 RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation
-- Jun 21 LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs
-- Jun 19 R2AG: Incorporating Retrieval Information into Retrieval Augmented Generation
-- Jun 19 INSTRUCTRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising
-- Jun 18 Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach
+- Jun 27 [SEAKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Genaration](https://arxiv.org/pdf/2406.19215)
+- Jun 27 [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)
+- Jun 27 [CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG](https://arxiv.org/pdf/2406.11497)
+- Jun 25 [Entropy-Based Decoding for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2406.17519)
+- Jun 21 [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.12566)
+- Jun 21 [LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://arxiv.org/pdf/2406.15319?fbclid=IwZXh0bgNhZW0CMTAAAR0kiZE83xw45pTDrykhxRUoIkFJJecrR09nDIFd_M96h9_RCCqp04mvx44_aem_vvI_bJ5zlcSTvbdAcAUPZA)
+- Jun 19 [R^2AG: Incorporating Retrieval Information into Retrieval Augmented Generation](https://arxiv.org/pdf/2406.13249)
+- Jun 19 [INSTRUCTRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising](https://arxiv.org/pdf/2406.13629)
+- Jun 18 [Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach](https://arxiv.org/pdf/2407.13101)
 - Jun 18 PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers
 - Jun 18 Retrieval Meets Reasoning: Dynamic In-Context Editing for Long-Text Understanding
 - Jun 12 Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation
