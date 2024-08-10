@@ -18,10 +18,24 @@
 - [2023](#2023)
 
 ## 🔥Latest News
-### 🔥2024 July
+### 🔥2024 August
+- Aug 7 [EfficientRAG: Efficient Retriever for Multi-Hop Question Answering](https://arxiv.org/pdf/2408.04259)
+- Aug 7 [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.04187)
+- Aug 7 [Exploring RAG-based Vulnerability Augmentation with LLMs](https://arxiv.org/pdf/2408.04125)
+- Aug 7 [Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02854)
+- Aug 2 [RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework](https://arxiv.org/pdf/2408.01262)
+- Aug 2 [BioRAG: A RAG-LLM Framework for Biological Question Reasoning](https://arxiv.org/pdf/2408.01107)
+- Aug 2 [Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts](https://arxiv.org/pdf/2408.01084)
+
+### 🍭2024 July
 - Jul 29 [Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/pdf/2407.19813)
+- Jul 28 [Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.19619)
+- Jul 25 [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/pdf/2407.21059)
+- Jul 20 [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](https://arxiv.org/pdf/2408.00798)
 - Jul 19 [RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering](https://arxiv.org/pdf/2407.13998)
+- Jul 17 [Optimizing Query Generation for Enhanced Document Retrieval in RAG](https://arxiv.org/pdf/2407.12325)
 - Jul 11 [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://arxiv.org/pdf/2407.08223?trk=public_post_comment-text)
+- jul 2 [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485)
 - Jul 1 [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.01219?trk=public_post_comment-text)
 
 ### 🍭2024 June
