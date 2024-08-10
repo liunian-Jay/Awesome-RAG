@@ -8,6 +8,7 @@
 - [ACL 2024](#ACL-2024)
 - [ICML 2024](#ICML-2024)
 - [ICLR 2024](#ICLR-2024)
+- [2024 August](#2024-August)
 - [2024 July](#2024-July)
 - [2024 June](#2024-June)
 - [2024 May](#2024-May)
@@ -57,14 +58,14 @@
 - Jun 1  [Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.00456)
 
 ### 🍭2024 May
-- May 30 GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning
-- May 26 Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration
-- May 23 HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
-- May 22 xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token
-- May 14 ERATTA: Extreme RAG for Table To Answers with Large Language Models
-- May 13 Evaluation of Retrieval-Augmented Generation: A Survey
-- May 12 DUETRAG: COLLABORATIVE RETRIEVAL-AUGMENTEDGENERATION
-- May 6  ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Accuracy, Efficiency, and Personalization
+- May 30 [GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning](https://arxiv.org/pdf/2405.20139)
+- May 26 [Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration](https://arxiv.org/pdf/2405.16546)
+- May 23 [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/pdf/2405.14831)
+- May 22 [xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token](https://arxiv.org/pdf/2405.13792)
+- May 14 [ERATTA: Extreme RAG for Table To Answers with Large Language Models](https://arxiv.org/pdf/2405.03963)
+- May 13 [Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/pdf/2405.07437)
+- May 12 [DUETRAG: COLLABORATIVE RETRIEVAL-AUGMENTEDGENERATION](https://arxiv.org/pdf/2405.13002)
+- May 6  [ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Accuracy, Efficiency, and Personalization](https://arxiv.org/pdf/2405.06683)
 
 ### 🍭2024 April
 - Apr 28 Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications
@@ -150,3 +151,6 @@
 - Retrieval meets Long Context Large Language Models
 - SuRe - Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs
 
+
+
+Welcome to communicate with us by email at jiangyijcx@163.com
