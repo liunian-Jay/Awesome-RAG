@@ -20,6 +20,12 @@
 
 ## 🔥Latest News
 ### 🔥2024 August
+- Aug 21 [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.11381)
+- Aug 21 [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://arxiv.org/abs/2408.12060)
+- Aug 20 [Hierarchical Retrieval-Augmented Generation Model with Rethink for Multi-hop Question Answering](https://arxiv.org/abs/2408.11875)
+- Aug 19 [KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models](https://arxiv.org/pdf/2408.03297)
+- Aug 17 [TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems](https://arxiv.org/abs/2408.09199)
+- Aug 16 [Meta Knowledge for Retrieval Augmented Large Language Models](https://arxiv.org/abs/2408.09017)
 - Aug 7 [EfficientRAG: Efficient Retriever for Multi-Hop Question Answering](https://arxiv.org/pdf/2408.04259)
 - Aug 7 [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.04187)
 - Aug 7 [Exploring RAG-based Vulnerability Augmentation with LLMs](https://arxiv.org/pdf/2408.04125)
@@ -30,6 +36,7 @@
 
 ### 🍭2024 July
 - Jul 29 [Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/pdf/2407.19813)
+- Jul 29 [Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.19619)
 - Jul 28 [Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.19619)
 - Jul 25 [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/pdf/2407.21059)
 - Jul 20 [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](https://arxiv.org/pdf/2408.00798)
