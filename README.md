@@ -75,88 +75,88 @@
 - May 6  [ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Accuracy, Efficiency, and Personalization](https://arxiv.org/pdf/2405.06683)
 
 ### 🍭2024 April
-- Apr 28 Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications
-- Apr 26 Better Synthetic Data by Retrieving and Transforming Existing Datasets
-- Apr 22 LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation
-- Apr 16 How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior
-- Apr 12 Reducing hallucination in structured outputs via Retrieval-Augmented Generation
-- Apr 1  ARAGOG: Advanced RAG Output Grading
+- Apr 28 [Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications](https://arxiv.org/pdf/2405.01585)
+- Apr 26 [Better Synthetic Data by Retrieving and Transforming Existing Datasets](https://arxiv.org/pdf/2404.14361)
+- Apr 22 [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043)
+- Apr 16 [How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior](https://arxiv.org/pdf/2404.10198?trk=public_post_comment-text)
+- Apr 12 [Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.08189)
+- Apr 1  [ARAGOG: Advanced RAG Output Grading](https://arxiv.org/pdf/2404.01037.pdf?trk=public_post_comment-text)
 
 ### 🍭2024 March
-- Mar 21 FIT-RAG: Black-Box RAG with Factual Information and Token Reduction
-- Mar 15 RAFT: Adapting Language Model to Domain Specific RAG
-- Mar 14 G-Retriever: Retrieval-AugmeAprnted Generation for Textual Graph Understanding and Question Answering
-- Mar 8  RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation
+- Mar 21 [FIT-RAG: Black-Box RAG with Factual Information and Token Reduction](https://arxiv.org/pdf/2403.14374)
+- Mar 15 [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131?trk=public_post_comment-text)
+- Mar 14 [G-Retriever: Retrieval-AugmeAprnted Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/pdf/2402.07630)
+- Mar 8  [RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation](https://arxiv.org/pdf/2403.05313v1?trk=public_post_comment-text)
 
 ### 🍭2024 February
-- Feb 27 REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering
-- Feb 22 Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models
-- Feb 21 ACTIVERAG: Revealing the Treasures of Knowledge via Active Learning
-- Feb 16 Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models
-- Feb 16 Corrective Retrieval Augmented Generation
+- Feb 27 [REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering](https://arxiv.org/pdf/2402.17497)
+- Feb 22 [Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models](https://arxiv.org/pdf/2402.14409)
+- Feb 21 [ACTIVERAG: Revealing the Treasures of Knowledge via Active Learning](https://arxiv.org/pdf/2402.13547)
+- Feb 16 [Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models](https://arxiv.org/pdf/2402.10612)
+- Feb 16 [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884)
 
 ### 🍭2024 January
-- Jan 27 Enhancing Large Language Model Performance To Answer Questions and Extract Information More Accurately
-- Jan 24 UniMS-RAG: A Unified Multi-source Retrieval-Augmented Generation for Personalized Dialogue Systems
+- Jan 27 [Enhancing Large Language Model Performance To Answer Questions and Extract Information More Accurately](https://arxiv.org/pdf/2402.01722)
+- Jan 24 [UniMS-RAG: A Unified Multi-source Retrieval-Augmented Generation for Personalized Dialogue Systems](https://arxiv.org/pdf/2401.13256)
 
 ### 🍭2023
-- Oct 23 Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models
-- Oct 8  Self-Knowledge Guided Retrieval Augmentation for Large Language Models
+- Oct 23 [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2310.14696)
+- Oct 8  [Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://arxiv.org/pdf/2310.05002)
 
 
 ## 🥇ACL 2024
-- Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation
-- An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation
-- Grounding Language Model with Chunking-Free In-Context Retrieval
-- M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions
-- ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval
-- On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models
-- Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models
-- A Multi-Task Embedder For Retrieval Augmented LLM
-- DAPR: A Benchmark on Document-Aware Passage Retrieval
-- Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case Study on Open Domain Question Answering
-- Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval
-- Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering
-- Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion
-- Understanding Retrieval Robustness for Retrieval-augmented Image Captioning
-- Synergistic Interplay between Search and Large Language Models for Information Retrieval
-- Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training
-- Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments
-- RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
-- DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models
-- RAM-EHR: Retrieval Augmentation Meets Clinical Predictions on Electronic Health Records
-- Search-Adaptor: Embedding Customization for Information Retrieval
-- ARL2: Aligning Retrievers with Black-box Large Language Models via Self-guided Adaptive Relevance Labeling
-- Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs
-- Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?
-- To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering
-- Bridging the Preference Gap between Retrievers and LLMs
+- [Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2402.18150)
+- [An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.01549)
+- [Grounding Language Model with Chunking-Free In-Context Retrieval](https://arxiv.org/pdf/2402.09760)
+- [M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions](https://arxiv.org/pdf/2405.16420)
+- [ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval](https://arxiv.org/pdf/2402.15838)
+- [On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models](https://arxiv.org/pdf/2406.16367)
+- [Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models](https://arxiv.org/pdf/2402.11573)
+- [A Multi-Task Embedder For Retrieval Augmented LLM](https://aclanthology.org/2024.acl-long.194.pdf)
+- [DAPR: A Benchmark on Document-Aware Passage Retrieval](https://arxiv.org/pdf/2305.13915)
+- [Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case Study on Open Domain Question Answering](https://arxiv.org/pdf/2404.10496)
+- [Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval](https://arxiv.org/pdf/2404.04163)
+- [Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering](https://arxiv.org/pdf/2406.14891)
+- [Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion](https://arxiv.org/pdf/2405.19782)
+- [Understanding Retrieval Robustness for Retrieval-augmented Image Captioning](https://arxiv.org/pdf/2406.02265)
+- [Synergistic Interplay between Search and Large Language Models for Information Retrieval](https://arxiv.org/pdf/2305.07402)
+- [Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training](https://arxiv.org/pdf/2405.20978)
+- [Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments](https://arxiv.org/pdf/2406.09815)
+- [RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models](https://arxiv.org/pdf/2401.00396)
+- [DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models](https://arxiv.org/pdf/2403.10081)
+- [RAM-EHR: Retrieval Augmentation Meets Clinical Predictions on Electronic Health Records](https://arxiv.org/pdf/2403.00815)
+- [Search-Adaptor: Embedding Customization for Information Retrieval](https://aclanthology.org/2024.acl-long.661.pdf)
+- [ARL2: Aligning Retrievers with Black-box Large Language Models via Self-guided Adaptive Relevance Labeling](https://arxiv.org/pdf/2402.13542)
+- [Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs](https://arxiv.org/pdf/2402.12052)
+- [Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?](https://arxiv.org/pdf/2401.11911)
+- [To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering](https://arxiv.org/pdf/2403.01924)
+- [Bridging the Preference Gap between Retrievers and LLMs](https://arxiv.org/pdf/2401.06954)
 
 ## 🥇ICML 2024
-- C-RAG - Certified Generation Risks for Retrieval-Augmented Language Models
-- DFA-RAG - Conversational Semantic Router for Large Language Model with Definite Finite Automaton
-- InstructRetro - Instruction Tuning post Retrieval-Augmented Pretraining
-- A Statistical Framework for Data-dependent Retrieval-Augmented Models
-- Superposition Prompting - Improving and Accelerating Retrieval-Augmented Generation
-- Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning
-- Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models
-- Bottleneck-Minimal Indexing for Generative Document Retrieval
-- Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation
-- PinNet - Pinpoint Instructive Information for Retrieval Augmented Code-to-Text Generation
-- Repoformer - Selective Retrieval for Repository-Level Code Completion
-- Retrieval-Augmented Score Distillation for Text-to-3D Generation
-- Automated Evaluation of Retrieval-Augmented Language Models with Task-Specific Exam Generation
-- Accelerating Iterative Retrieval-augmented Language Model Serving with Speculation
+- [C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/pdf/2402.03181)
+- [DFA-RAG: Conversational Semantic Router for Large Language Model with Definite Finite Automaton](https://openreview.net/pdf?id=LpAzlcGzJ6)
+- [InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://arxiv.org/pdf/2310.07713)
+- [A Statistical Framework for Data-dependent Retrieval-Augmented Models](https://arxiv.org/pdf/2408.15399)
+- [Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.06910)
+- [Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning](https://openreview.net/pdf?id=XwnABAdH5y)
+- [Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models](https://arxiv.org/pdf/2405.01468)
+- [Bottleneck-Minimal Indexing for Generative Document Retrieval](https://arxiv.org/pdf/2405.10974)
+- [Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation](https://openreview.net/pdf?id=eejhD9FCP3)
+- [PinNet: Pinpoint Instructive Information for Retrieval Augmented Code-to-Text Generation](https://openreview.net/pdf?id=TqcZfMZjgM)
+- [Repoformer: Selective Retrieval for Repository-Level Code Completion](https://arxiv.org/pdf/2403.10059)
+- [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://arxiv.org/pdf/2402.02972)
+- [Automated Evaluation of Retrieval-Augmented Language Models with Task-Specific Exam Generation](https://arxiv.org/pdf/2405.13622)
+- [Accelerating Iterative Retrieval-augmented Language Model Serving with Speculation](https://openreview.net/pdf?id=CDnv4vg02f)
 
 ## 🥇ICLR 2024
-- Self-RAG - Learning to Retrieve, Generate, and Critique through Self-Reflection
-- BTR - Binary Token Representations for Efficient Retrieval Augmented Language Models
-- Making Retrieval-Augmented Language Models Robust to Irrelevant Context
-- RA-DIT - Retrieval-Augmented Dual Instruction Tuning
-- RAPTOR - Recursive Abstractive Processing for Tree-Organized Retrieval
-- RECOMP - Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation
-- Retrieval meets Long Context Large Language Models
-- SuRe - Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511)
+- [BTR: Binary Token Representations for Efficient Retrieval Augmented Language Models](https://arxiv.org/pdf/2310.01329)
+- [Making Retrieval-Augmented Language Models Robust to Irrelevant Context](https://arxiv.org/pdf/2310.01558)
+- [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/pdf/2310.01352?trk=public_post_comment-text)
+- [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/pdf/2401.18059.pdf?utm_referrer=https%3A%2F%2Fdzen.ru%2Fmedia%2Fid%2F5e048b1b2b616900b081f1d9%2F66110fe915ffb223365956df)
+- [RECOMP: Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation](https://openreview.net/pdf?id=mlJLVigNHp)
+- [Retrieval meets Long Context Large Language Models](https://arxiv.org/pdf/2310.03025)
+- [SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs](https://arxiv.org/pdf/2404.13081)
 
 
 
