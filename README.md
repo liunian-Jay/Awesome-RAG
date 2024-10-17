@@ -19,9 +19,22 @@
 - [2023](#2023)
 
 ## 🔥Latest News
-### 🔥2024 August
+### 🔥2024 October
+- Oct 11 [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation]((https://arxiv.org/pdf/2410.08821))
+- Oct 8 [LIGHTRAG: SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION](https://arxiv.org/pdf/2410.05779)
+- Oct 7 [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/pdf/2410.04739)
+- Oct 6 [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/pdf/2410.04343)
+- Oct 2 [OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](https://arxiv.org/pdf/2410.01782)
+
+### 🍭2024 September
+- Sep 23 [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/pdf/2409.14924)
+- Sep 4 [Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering](https://arxiv.org/pdf/2409.02361)
+
+### 🍭2024 August
+- Aug 29 [LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation](https://arxiv.org/pdf/2408.15533v2)
 - Aug 21 [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.11381)
 - Aug 21 [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://arxiv.org/abs/2408.12060)
+- Aug 20 [Analysis of Plan-based Retrieval for Grounded Text Generation](https://arxiv.org/pdf/2408.10490)
 - Aug 20 [Hierarchical Retrieval-Augmented Generation Model with Rethink for Multi-hop Question Answering](https://arxiv.org/abs/2408.11875)
 - Aug 19 [KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models](https://arxiv.org/pdf/2408.03297)
 - Aug 17 [TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems](https://arxiv.org/abs/2408.09199)
@@ -30,6 +43,7 @@
 - Aug 7 [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.04187)
 - Aug 7 [Exploring RAG-based Vulnerability Augmentation with LLMs](https://arxiv.org/pdf/2408.04125)
 - Aug 7 [Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02854)
+- Aug 5 [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545)
 - Aug 2 [RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework](https://arxiv.org/pdf/2408.01262)
 - Aug 2 [BioRAG: A RAG-LLM Framework for Biological Question Reasoning](https://arxiv.org/pdf/2408.01107)
 - Aug 2 [Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts](https://arxiv.org/pdf/2408.01084)
