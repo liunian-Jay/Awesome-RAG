@@ -20,10 +20,15 @@
 
 ## 🔥Latest News
 ### 🔥2024 October
-- Oct 11 [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation]((https://arxiv.org/pdf/2410.08821))
+- Oct 12 [Toward General Instruction-Following Alignment for Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.09584)
+- Oct 11 [STRUCTRAG: BOOSTING KNOWLEDGE INTENSIVE REASONING OF LLMS VIA INFERENCE-TIME HYBRID INFORMATION STRUCTURIZATION](https://arxiv.org/pdf/2410.08815)
+- Oct 11 [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.08821)
+- Oct 9 [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/pdf/2410.07176v1)
 - Oct 8 [LIGHTRAG: SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION](https://arxiv.org/pdf/2410.05779)
 - Oct 7 [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/pdf/2410.04739)
 - Oct 6 [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/pdf/2410.04343)
+- Oct 4 [How Much Can RAG Help the Reasoning of LLM?](https://arxiv.org/pdf/2410.02338)
+- Oct 2[OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs](https://arxiv.org/pdf/2409.05152)
 - Oct 2 [OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](https://arxiv.org/pdf/2410.01782)
 
 ### 🍭2024 September
@@ -31,6 +36,7 @@
 - Sep 4 [Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering](https://arxiv.org/pdf/2409.02361)
 
 ### 🍭2024 August
+- Aug 30 [MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2408.17072v1)
 - Aug 29 [LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation](https://arxiv.org/pdf/2408.15533v2)
 - Aug 21 [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.11381)
 - Aug 21 [Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs](https://arxiv.org/abs/2408.12060)
