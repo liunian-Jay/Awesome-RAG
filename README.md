@@ -24,7 +24,6 @@
 - Oct 11 [STRUCTRAG: BOOSTING KNOWLEDGE INTENSIVE REASONING OF LLMS VIA INFERENCE-TIME HYBRID INFORMATION STRUCTURIZATION](https://arxiv.org/pdf/2410.08815)
 - Oct 11 [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.08821)
 - Oct 9 [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/pdf/2410.07176v1)
-- Oct 8 [LIGHTRAG: SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION](https://arxiv.org/pdf/2410.05779)
 - Oct 7 [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/pdf/2410.04739)
 - Oct 6 [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/pdf/2410.04343)
 - Oct 4 [How Much Can RAG Help the Reasoning of LLM?](https://arxiv.org/pdf/2410.02338)
@@ -49,8 +48,6 @@
 - Aug 7 [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.04187)
 - Aug 7 [Exploring RAG-based Vulnerability Augmentation with LLMs](https://arxiv.org/pdf/2408.04125)
 - Aug 7 [Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02854)
-- Aug 5 [RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation](https://arxiv.org/pdf/2408.02545)
-- Aug 2 [RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework](https://arxiv.org/pdf/2408.01262)
 - Aug 2 [BioRAG: A RAG-LLM Framework for Biological Question Reasoning](https://arxiv.org/pdf/2408.01107)
 - Aug 2 [Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts](https://arxiv.org/pdf/2408.01084)
 
@@ -95,7 +92,6 @@
 - May 6  [ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Accuracy, Efficiency, and Personalization](https://arxiv.org/pdf/2405.06683)
 
 ### 🍭2024 April
-- Apr 28 [Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular RAG Applications](https://arxiv.org/pdf/2405.01585)
 - Apr 26 [Better Synthetic Data by Retrieving and Transforming Existing Datasets](https://arxiv.org/pdf/2404.14361)
 - Apr 22 [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.14043)
 - Apr 16 [How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior](https://arxiv.org/pdf/2404.10198?trk=public_post_comment-text)
