@@ -359,7 +359,7 @@ $fingdings$
 - [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/pdf/2502.14802)
 - [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](https://arxiv.org/pdf/2502.09977)
 - [RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2403.09040)
-- [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning (No link yet)](https://github.com/liunian-Jay/Awesome-RAG)
+- [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning](https://openreview.net/pdf?id=SVl9tIADWV)
 - [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](https://arxiv.org/pdf/2504.04578)
 - [On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains](https://arxiv.org/pdf/2409.17275)
 - [C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.06205)
