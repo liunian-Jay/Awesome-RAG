@@ -86,6 +86,7 @@
 #### 💡Project
 - [LightRAG](https://github.com/HKUDS/LightRAG)
 - [RAGFlow](https://github.com/infiniflow/ragflow)
+- [RAGFlow Optimizer](https://github.com/stranger00135/ragflow-optimizer) - Automated chunking parameter optimization for RAGFlow using LLM-based evaluation
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 - [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
 
