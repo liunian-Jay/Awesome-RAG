@@ -99,7 +99,29 @@
 - Jan 11 [TreePS-RAG: Tree-based Process Supervision for Reinforcement Learning in Agentic RAG](https://arxiv.org/abs/2601.06922)
 
 ### 🔥2025 December
-
+- Dec 31 [Enhancing Retrieval-Augmented Generation with Topic-Enriched Embeddings: A Hybrid Approach Integrating Traditional NLP Techniques](https://arxiv.org/pdf/2601.00891)
+- Dec 29 [Retrieval Augmented Question Answering: When Should LLMs Admit Ignorance?](https://arxiv.org/pdf/2512.23836)
+- Dec 27 [DICE: Discrete Interpretable Comparative Evaluation with Probabilistic Scoring for Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.22629)
+- Dec 27 [HiFi-RAG: Hierarchical Content Filtering and Two-Pass Generation for Open-Domain RAG](https://arxiv.org/pdf/2512.22442)
+- Dec 25 [FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations](https://arxiv.org/pdf/2512.07015)
+- Dec 22 [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.19134)
+- Dec 20 [Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation](https://arxiv.org/pdf/2512.22199)
+- Dec 19 [MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation](https://arxiv.org/pdf/2512.17194)
+- Dec 17 [The Semantic Illusion: Certified Limits of Embedding-Based Hallucination Detection in RAG Systems](https://arxiv.org/pdf/2512.15068)
+- Dec 16 [DrugRAG: Enhancing Pharmacy LLM Performance Through A Novel Retrieval-Augmented Generation Pipeline](https://arxiv.org/pdf/2512.14896)
+- Dec 16 [Dynamic Context Selection for Retrieval-Augmented Generation: Mitigating Distractors and Positional Bias](https://arxiv.org/pdf/2512.14313)
+- Dec 16 [Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation](https://arxiv.org/pdf/2511.13201)
+- Dec 15 [Semantic Grounding Index: Geometric Bounds on Context Engagement in RAG Systems](https://arxiv.org/pdf/2512.13771)
+- Dec 12 [LOOPRAG: Enhancing Loop Transformation Optimization with Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2512.15766)
+- Dec 11 [Cooperative Retrieval-Augmented Generation for Question Answering: Mutual Information Exchange and Ranking by Contrasting Layers](https://arxiv.org/pdf/2512.10422)
+- Dec 10 [MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA](https://arxiv.org/pdf/2512.10996)
+- Dec 10 [RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning](https://arxiv.org/pdf/2512.09487)
+- Dec 10 [Leveraging Language Models and RAG for Efficient Knowledge Discovery in Clinical Environments](https://arxiv.org/pdf/2601.04209)
+- Dec 9 [Detecting Hallucinations in Graph Retrieval-Augmented Generation via Attention Patterns and Semantic Alignment](https://arxiv.org/pdf/2512.09148)
+- Dec 9 [Toward Faithful Retrieval-Augmented Generation with Sparse Autoencoders](https://arxiv.org/pdf/2512.08892)
+- Dec 5 [Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework](https://arxiv.org/pdf/2512.05863)
+- Dec 3 [RAGVUE: A Diagnostic View for Explainable and Automated Evaluation of Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.04196)
+- Dec 3 [BookRAG: A Hierarchical Structure-aware Index-based Approach for Retrieval-Augmented Generation on Complex Documents](https://arxiv.org/pdf/2512.03413)
 
 ### 🔥2025 November
 - Nov 29 [Breaking It Down: Domain-Aware Semantic Segmentation for Retrieval Augmented Generation](https://arxiv.org/pdf/2512.00367)
