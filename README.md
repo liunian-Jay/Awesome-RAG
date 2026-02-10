@@ -27,11 +27,19 @@
 
 </small>
 
+
+### [🗓️ 2026 papers](#2026)
+<a name="2026"></a>
+|                                 |                                 |                                 |                                 |                                 |                                 |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| [2026.01](#2026-January)       |                                 |                                 |                                 |                                 |                                 |
+
+
 ### [🗓️ 2025 papers](#2025)
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 2025.12     | 2025.11    | [2025.10](#2025-October)       | [2025.09](#2025-September)        | [2025.08](#2025-August)           |[2025.07](#2025-July)          |
+| [2025.12](#2025-December)     | [2025.11](#2025-November)    | [2025.10](#2025-October)       | [2025.09](#2025-September)        | [2025.08](#2025-August)           |[2025.07](#2025-July)          |
 | [2025.06](#2025-June)       | [2025.05](#2025-May)       | [2025.04](#2025-April)       | [2025.03](#2025-March)        | [2025.02](#2025-February)  | [2025.01](#2025-January)   |
 
 
@@ -83,7 +91,31 @@
 
 
 ## 🔥Latest Papers
+### 🔥2026 January
+- Jan 29 [When should I search more: Adaptive Complex Query Optimization with Reinforcement Learning](https://arxiv.org/abs/2601.21208)
+- Jan 26 [AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito](https://arxiv.org/abs/2601.18381)
+- Jan 17 [Agentic-R: Learning to Retrieve for Agentic Search](https://arxiv.org/abs/2601.11888)
+- Jan 15 [RoutIR: Fast Serving of Retrieval Pipelines for Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10644)
+- Jan 11 [TreePS-RAG: Tree-based Process Supervision for Reinforcement Learning in Agentic RAG](https://arxiv.org/abs/2601.06922)
+
+### 🔥2025 December
+- Dec 30 [SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing](https://arxiv.org/abs/2512.24008)
+
+### 🔥2025 November
+- Nov 29 [ML-Tool-Bench: Tool-Augmented Planning for ML Tasks](https://arxiv.org/abs/2512.00672)
+- Nov 22 [Agent-as-a-Graph: Knowledge Graph-Based Tool and Agent Retrieval for LLM Multi-Agent Systems](https://arxiv.org/abs/2511.18194)
+- Nov 22 [Rethinking Retrieval: From Traditional Retrieval Augmented Generation to Agentic and Non-Vector Reasoning Systems in the Financial Domain for Large Language Models](https://arxiv.org/abs/2511.18177)
+- Nov 12 [BarrierBench : Evaluating Large Language Models for Safety Verification in Dynamical Systems](https://arxiv.org/abs/2511.09363)
+- Nov 10 [AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning](https://arxiv.org/abs/2511.07262)
+- Nov 7 [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://arxiv.org/abs/2511.05385)
+
 ### 🔥2025 October
+- Oct 28 [Improving LLM Reasoning via Dependency-Aware Query Decomposition and Logic-Parallel Content Expansion](https://arxiv.org/abs/2510.24390)
+- Oct 27 [A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications](https://arxiv.org/abs/2510.16724)
+- Oct 17 [AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory](https://arxiv.org/abs/2510.15261)
+- Oct 15 [D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree](https://arxiv.org/abs/2510.13363)
+- Oct 14 [DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](https://arxiv.org/abs/2510.12801)
+- Oct 11 [Beyond the limitation of a single query: Train your LLM for query expansion with Reinforcement Learning](https://arxiv.org/abs/2510.10009)
 - Oct 9 [QAgent: A modular Search Agent with Interactive Query Understanding](https://arxiv.org/pdf/2510.08383)
 - Oct 9 [STEPER: Step-wise Knowledge Distillation for Enhancing Reasoning Ability in Multi-Step Retrieval-Augmented Language Models](https://arxiv.org/pdf/2510.07923)
 - Oct 7 [HiPRAG: Hierarchical Process Rewards for Efficient Agentic Retrieval Augmented Generation](https://arxiv.org/pdf/2510.07794)
