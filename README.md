@@ -91,6 +91,9 @@
 
 
 ## 🔥Latest Papers
+### 🔥2026 February
+- Feb 13 [LIR^3AG: A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation](https://arxiv.org/abs/2512.18329)
+
 ### 🔥2026 January
 - Jan 30 [Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/pdf/2512.11614)
 - Jan 30 [DIVERGE: Diversity-Enhanced RAG for Open-Ended Information Seeking](https://arxiv.org/pdf/2602.00238)
