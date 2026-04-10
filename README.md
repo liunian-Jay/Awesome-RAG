@@ -59,6 +59,7 @@
 
 
 ## 📢 Latest News
+- **[26.04]:** Our **CoCoA** accepted at ***ACL2026 Main***! 🎉 [[Paper]](https://arxiv.org/pdf/2508.01696)[[Code]](https://github.com/liunian-Jay/CoCoA)
 - **[26.1]:** Our [ArcAligner](https://arxiv.org/pdf/2601.05038) released — designed for long memory!🚀 [[Code]](https://github.com/liunian-Jay/ArcAligner)
 - **[26.1]:** Our [OptiSet](https://arxiv.org/pdf/2601.05027) released — unified selection and ranking!🚀 [[Code]](https://github.com/liunian-Jay/OptiSet)
 - **[25.10]:** Updated the recent papers from September and October!📅
