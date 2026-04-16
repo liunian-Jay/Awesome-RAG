@@ -32,7 +32,7 @@
 <a name="2026"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| [2026.01](#2026-January)       |                                 |                                 |                                 |                                 |                                 |
+| 2026.06       | 2026.05       | 2026.04       | [2026.03](#2026-March)        | [2026.02](#2026-February)  | [2026.01](#2026-January)   |
 
 
 ### [🗓️ 2025 papers](#2025)
@@ -92,8 +92,58 @@
 
 
 ## 🔥Latest Papers
+### 🔥2026 March
+- Mar 1 [Tiny-Critic RAG: Empowering Agentic Fallback with Parameter-Efficient Small Language Models](https://arxiv.org/pdf/2603.00846)
+
+  
 ### 🔥2026 February
+- Feb 28 [From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG](https://arxiv.org/pdf/2603.19276)
+- Feb 26 [TCM-DiffRAG: Personalized Syndrome Differentiation Reasoning Method for Traditional Chinese Medicine based on Knowledge Graph and Chain of Thought](https://arxiv.org/pdf/2602.22828)
+- Feb 26 [Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training](https://arxiv.org/pdf/2602.22576)
+- Feb 25 [Revisiting RAG Retrievers: An Information Theoretic Benchmark](https://arxiv.org/pdf/2602.21553)
+- Feb 24 [HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG](https://arxiv.org/pdf/2602.20926)
+- Feb 24 [RMIT-ADM+S at the MMU-RAG NeurIPS 2025 Competition](https://arxiv.org/pdf/2602.20735)
+- Feb 24 [DynaRAG: Bridging Static and Dynamic Knowledge in Retrieval-Augmented Generation](https://arxiv.org/pdf/2603.18012)
+- Feb 23 [How Retrieved Context Shapes Internal Representations in RAG](https://arxiv.org/pdf/2602.20091)
+- Feb 23 [Controllable Evidence Selection in Retrieval-Augmented Question Answering via Deterministic Utility Gating](https://arxiv.org/pdf/2603.18011)
+- Feb 22 [AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG](https://arxiv.org/pdf/2602.19127)
+- Feb 21 [Rethinking Retrieval-Augmented Generation as a Cooperative Decision-Making Problem](https://arxiv.org/pdf/2602.18734)
+- Feb 20 [GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning](https://arxiv.org/pdf/2603.06620)
+- Feb 19 [NTLRAG: Narrative Topic Labels derived with Retrieval Augmented Generation](https://arxiv.org/pdf/2602.17216)
+- Feb 19 [NotebookRAG: Retrieving Multiple Notebooks to Augment the Generation of EDA Notebooks for Crowd-Wisdom](https://arxiv.org/pdf/2602.17215)
+- Feb 17 [Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation](https://arxiv.org/pdf/2602.15650)
+- Feb 16 [AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking](https://arxiv.org/pdf/2602.15190)
+- Feb 16 [HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation](https://arxiv.org/pdf/2602.14470)
+- Feb 16 [Differentially Private Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.14374)
+- Feb 14 [Evaluating Prompt Engineering Techniques for RAG in Small Language Models: A Multi-Hop QA Approach](https://arxiv.org/pdf/2602.13890)
 - Feb 13 [LIR^3AG: A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation](https://arxiv.org/abs/2512.18329)
+- Feb 11 [MultiCube-RAG for Multi-hop Question Answering](https://arxiv.org/pdf/2602.15898)
+- Feb 11 [AudioRAG: A Challenging Benchmark for Audio Reasoning and Information Retrieval](https://arxiv.org/pdf/2602.10656)
+- Feb 10 [MLDocRAG: Multimodal Long-Context Document Retrieval Augmented Generation](https://arxiv.org/pdf/2602.10271)
+- Feb 10 [Comprehensive Comparison of RAG Methods Across Multi-Domain Conversational QA](https://arxiv.org/pdf/2602.09552)
+- Feb 10 [Evaluating Social Bias in RAG Systems: When External Context Helps and Reasoning Hurts](https://arxiv.org/pdf/2602.09442)
+- Feb 9 [DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.08545)
+- Feb 9 [SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains](https://arxiv.org/pdf/2602.08400)
+- Feb 8 [HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2602.07739)
+- Feb 7 [IGMiRAG: Intuition-Guided Retrieval-Augmented Generation with Adaptive Mining of In-Depth Memor](https://arxiv.org/pdf/2602.07525)
+- Feb 7 [Progressive Searching for Retrieval in RAG](https://arxiv.org/pdf/2602.07297)
+- Feb 7 [Benchmarking Legal RAG: The Promise and Limits of AI Statutory Surveys](https://arxiv.org/pdf/2603.03300)
+- Feb 6 [SE-Search: Self-Evolving Search Agent via Memory and Dense Reward](https://arxiv.org/pdf/2603.03293)
+- Feb 5 [CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering](https://arxiv.org/pdf/2602.05728)
+- Feb 5 [Cost-Efficient RAG for Entity Matching with LLMs: A Blocking-based Exploration](https://arxiv.org/pdf/2602.05708)
+- Feb 5 [When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](https://arxiv.org/pdf/2601.19827)
+- Feb 4[HugRAG: Hierarchical Causal Knowledge Graph Design for RAG](https://arxiv.org/pdf/2602.05143)
+- Feb 4 [Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.04926)
+- Feb 4 [Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/pdf/2602.04912)
+- Feb 3 [LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge Signals](https://arxiv.org/pdf/2509.21875)
+- Feb 3 [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.03689)
+- Feb 3 [Reinforcement Fine-Tuning for History-Aware Dense Retriever in RAG](https://arxiv.org/pdf/2602.03645)
+- Feb 3 [Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs](https://arxiv.org/pdf/2602.03578)
+- Feb 3 [A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces](https://arxiv.org/pdf/2602.03442)
+- Feb 3 [Pursuing Best Industrial Practices for Retrieval-Augmented Generation in the Medical Domain](https://arxiv.org/pdf/2602.03368)
+- Feb 2 [Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.01965)
+- Feb 2 [CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models](https://arxiv.org/pdf/2603.04406)
+- Feb 2 [P-RAG: Prompt-Enhanced Parametric RAG with LoRA and Selective CoT for Biomedical and Multi-Hop QA](https://arxiv.org/pdf/2602.15874)
 
 ### 🔥2026 January
 - Jan 30 [Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/pdf/2512.11614)
@@ -110,6 +160,7 @@
 - Jan 21 [ManuRAG: Multi-modal Retrieval Augmented Generation for Manufacturing Question Answering (Early Version)](https://arxiv.org/pdf/2601.15434)
 - Jan 21 [MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation](https://arxiv.org/pdf/2601.15487)
 - Jan 20 [Predicting Retrieval Utility and Answer Quality in Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.14546)
+- Jan 19 [RAGExplorer: A Visual Analytics System for the Comparative Diagnosis of RAG Systems](https://arxiv.org/pdf/2601.12991)
 - Jan 19 [Augmenting Question Answering with A Hybrid RAG Approach](https://arxiv.org/pdf/2601.12658)
 - Jan 16 [NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems](https://arxiv.org/pdf/2601.11004)
 - Jan 16 [PruneRAG: Confidence-Guided Query Decomposition Trees for Efficient Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.11024)
