@@ -89,7 +89,7 @@
 - [RAGFlow](https://github.com/infiniflow/ragflow)
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 - [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
-- [Dakera](https://github.com/Dakera-AI/dakera) — Persistent memory layer for RAG agents: hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay
+- [Dakera](https://github.com/dakera-ai/dakera-deploy) — Persistent memory layer for RAG agents: hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay
 
 
 ## 🔥Latest Papers
