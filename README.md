@@ -235,7 +235,7 @@
 - Dec 27 [DICE: Discrete Interpretable Comparative Evaluation with Probabilistic Scoring for Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.22629)
 - Dec 27 [HiFi-RAG: Hierarchical Content Filtering and Two-Pass Generation for Open-Domain RAG](https://arxiv.org/pdf/2512.22442)
 - Dec 25 [FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations](https://arxiv.org/pdf/2512.07015)
-- Dec 22 [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.19134)
+- Dec 22 [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.19134) [\[Code\]](https://github.com/ZhishanQ/QuCo-RAG)
 - Dec 20 [Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation](https://arxiv.org/pdf/2512.22199)
 - Dec 19 [MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation](https://arxiv.org/pdf/2512.17194)
 - Dec 17 [The Semantic Illusion: Certified Limits of Embedding-Based Hallucination Detection in RAG Systems](https://arxiv.org/pdf/2512.15068)
@@ -398,6 +398,13 @@
 - Jun 5 [Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.05154v1)
 - Jun 4 [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/pdf/2506.04185v1)
 - Jun 2 [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
+
+
+### 🥇ACL 2026
+$fingdings$  
+
+- [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.19134) [\[Code\]](https://github.com/ZhishanQ/QuCo-RAG)
+
 
 
 ### 🥇ACL 2025
