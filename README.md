@@ -92,6 +92,10 @@
 
 
 ## 🔥Latest Papers
+### 🔥2026 May
+- **EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** [[IJCESEN]](https://doi.org/10.22399/ijcesen.4869) [[Code]](https://github.com/neerazz/embedguard)
+  - Defends against adversarial embeddings injected into the retrieval corpus to manipulate downstream LLM behavior. Operates across embedding, retrieval, and generation layers with cryptographic provenance attestation.
+
 ### 🔥2026 March
 - Mar 30 [PAR2-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering](https://arxiv.org/pdf/2603.29085)
 - Mar 30 [Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification](https://arxiv.org/pdf/2603.28488)
