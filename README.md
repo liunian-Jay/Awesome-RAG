@@ -885,3 +885,6 @@ $findings$
 [![Star History Chart](https://api.star-history.com/svg?repos=liunian-Jay/Awesome-RAG&type=Date)](https://www.star-history.com/#liunian-Jay/Awesome-RAG&Date)
 
 Welcome to communicate with us by email at jiangyijcx@163.com
+
+
+- [Mimir](https://github.com/tcconnally/mimir) - Persistent memory engine for AI agents. 23 MCP tools, structured entities, sqlite-vec semantic search.
