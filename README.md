@@ -10,6 +10,8 @@
 </div>
   
 
+### ‼️ This repository has not been actively maintained recently ⌛️
+### ‼️ contributors interested in taking over are welcome to get in touch 👏 
 
 💡  List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
 🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
