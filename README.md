@@ -884,6 +884,6 @@ $findings$
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=liunian-Jay/Awesome-RAG&type=Date)](https://www.star-history.com/#liunian-Jay/Awesome-RAG&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=liunian-Jay/Awesome-RAG&type=Date)](https://star-history.dera.page/#liunian-Jay/Awesome-RAG&type=date)
 
 Welcome to communicate with us by email at jiangyijcx@163.com
