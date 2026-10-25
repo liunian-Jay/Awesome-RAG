@@ -24,7 +24,7 @@
 
 |                           |                            |                              |                          |                           | 
 |---------------------------|----------------------------|------------------------------|--------------------------|---------------------------|
-| NIPS 2025        | EMNLP 2025     | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
+| [NIPS 2025](#NIPS-2025) | EMNLP 2025     | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
 | [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2024](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
 
 </small>
@@ -413,6 +413,12 @@ $fingdings$
 
 
 
+### 🥇NIPS 2025
+
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.15543) [\[Code\]](https://github.com/OpenBMB/ParamMute)
+
+
+
 ### 🥇ACL 2025
 $main$  
 
@@ -577,6 +583,7 @@ $fingdings$
 - Feb 25 [RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
 - Feb 25 [Say Less, Mean More: Leveraging Pragmatics in Retrieval-Augmented  Generation](https://arxiv.org/pdf/2502.17839)
 - Feb 25 [DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers](https://arxiv.org/pdf/2502.18460)
+- Feb 21 [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.15543) [\[Code\]](https://github.com/OpenBMB/ParamMute)
 - Feb 20 [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://arxiv.org/pdf/2502.14245)
 - Feb 19 [RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision](https://arxiv.org/pdf/2502.13957)
 - Feb 19 [Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach](https://arxiv.org/abs/2502.14100)
