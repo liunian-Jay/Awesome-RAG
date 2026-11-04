@@ -24,7 +24,7 @@
 
 |                           |                            |                              |                          |                           | 
 |---------------------------|----------------------------|------------------------------|--------------------------|---------------------------|
-| [NIPS 2025](#NIPS-2025) | EMNLP 2025     | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
+| [NIPS 2025](#NIPS-2025) | [EMNLP 2025](#EMNLP-2025)     | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
 | [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2024](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
 
 </small>
@@ -94,6 +94,9 @@
 
 
 ## 🔥Latest Papers
+### 🔥2026 June
+- Jun 26 [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2606.27786) [\[Code\]](https://github.com/OpenBMB/SPARK)
+
 ### 🔥2026 May
 - **EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** [[IJCESEN]](https://doi.org/10.22399/ijcesen.4869) [[Code]](https://github.com/neerazz/embedguard)
   - Defends against adversarial embeddings injected into the retrieval corpus to manipulate downstream LLM behavior. Operates across embedding, retrieval, and generation layers with cryptographic provenance attestation.
@@ -419,6 +422,12 @@ $fingdings$
 
 
 
+### 🥇EMNLP 2025
+
+- [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://arxiv.org/pdf/2502.17057) [\[Code\]](https://github.com/NEUIR/ExpandR)
+
+
+
 ### 🥇ACL 2025
 $main$  
 
@@ -583,6 +592,7 @@ $fingdings$
 - Feb 25 [RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
 - Feb 25 [Say Less, Mean More: Leveraging Pragmatics in Retrieval-Augmented  Generation](https://arxiv.org/pdf/2502.17839)
 - Feb 25 [DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers](https://arxiv.org/pdf/2502.18460)
+- Feb 24 [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://arxiv.org/pdf/2502.17057) [\[Code\]](https://github.com/NEUIR/ExpandR)
 - Feb 21 [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.15543) [\[Code\]](https://github.com/OpenBMB/ParamMute)
 - Feb 20 [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://arxiv.org/pdf/2502.14245)
 - Feb 19 [RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision](https://arxiv.org/pdf/2502.13957)
