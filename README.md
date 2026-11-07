@@ -338,6 +338,7 @@
   
 ### 🍭2025 September
 - Sep 30 [RAGferee: Building Contextual Reward Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.26011)
+- Sep 29 [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621) (ICML 2026) [[Proceedings]](https://proceedings.mlr.press/v306/zhu26ba.html) [[Code]](https://github.com/MCG-NJU/FreeRet)
 - Sep 27 [From Evidence to Trajectory: Abductive Reasoning Path Synthesis for Training Retrieval-Augmented Generation Agents](https://arxiv.org/pdf/2509.23071)
 - Sep 26 [Beyond RAG vs. Long-Context: Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding](https://arxiv.org/pdf/2509.21865)
 - Sep 26 [Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?](https://arxiv.org/pdf/2509.22325)
