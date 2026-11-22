@@ -34,6 +34,7 @@
 <a name="2026"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 |
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| [2026.10](#2026-October) | | | | | |
 | 2026.06       | 2026.05       | 2026.04       | [2026.03](#2026-March)        | [2026.02](#2026-February)  | [2026.01](#2026-January)   |
 
 
@@ -94,6 +95,11 @@
 
 
 ## 🔥Latest Papers
+### 🔥2026 October
+<a name="2026-October"></a>
+
+- Oct 16 [MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234)
+
 ### 🔥2026 June
 - Jun 26 [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2606.27786) [\[Code\]](https://github.com/OpenBMB/SPARK)
 
