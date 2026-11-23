@@ -90,6 +90,7 @@
 #### 💡Project
 - [LightRAG](https://github.com/HKUDS/LightRAG)
 - [RAGFlow](https://github.com/infiniflow/ragflow)
+- [ApeRAG](https://github.com/apecloud/ApeRAG) - Open-source GraphRAG and hybrid-retrieval knowledge base platform (vector, full-text, LightRAG graph, summary, and vision indexing with built-in MCP server)
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 - [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
 
